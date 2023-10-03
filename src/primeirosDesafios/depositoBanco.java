@@ -1,3 +1,4 @@
+package primeirosDesafios;
 import java.util.Scanner;
 
 public class depositoBanco {
